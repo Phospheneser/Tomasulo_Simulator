@@ -1,4 +1,6 @@
 # Tomasulo_Simulator
-my tomasulo simulator\n
-with only LD ADD/SUB MUL/DIV\n
+my tomasulo simulator
+
+with only LD ADD/SUB MUL/DIV
+
 IDE:VS Qcreator
